@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/odluser722755/e86f130c-c8f7-43db-8eb5-e493c631a9bf/b5f2c87d-3185-4111-9b32-d42bf884a543/_apis/work/boardbadge/cbe360ca-db67-4e40-b392-489acd86f86c)](https://dev.azure.com/odluser722755/e86f130c-c8f7-43db-8eb5-e493c631a9bf/_boards/board/t/b5f2c87d-3185-4111-9b32-d42bf884a543/Microsoft.RequirementCategory)
 ### Let us know how we’re doing!  
 Please take a moment to fill out the [Microsoft Cloud Workshop Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyEtIpX7sDdChuWsXhzKJXJUNjFBVkROWDhSSVdYT0dSRkY4UVFCVzZBVy4u) and help us improve our offerings.
 
